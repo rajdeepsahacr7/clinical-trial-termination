@@ -1,0 +1,5 @@
+-- 02_oncology_cohort.sql
+-- Cohort: interventional Phase 2, Phase 2/3 and Phase 3 oncology trials (MeSH: Neoplasms),
+-- completed or terminated, start date 2010-2024. One row per trial.
+-- Exported to data/oncology_cohort_2026-11-18.csv (not in repo, see data/README.md)
+-- Row count: <write your number here>
